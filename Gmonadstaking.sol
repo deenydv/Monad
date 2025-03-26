@@ -29,3 +29,4 @@ contract GmonadStaking is Ownable {
         stakedBalance[msg.sender] = 0;
     }
 }
+// contract address: 0xa98641EC42259294Fe3e60f4C0c46e8996314f2a
