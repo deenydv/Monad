@@ -17,3 +17,4 @@ contract GmonadAirdrop is Ownable {
         }
     }
 }
+// contract address: 0x2F79CB560c59A605F249f194EA13503C0453087B
