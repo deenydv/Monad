@@ -18,3 +18,4 @@ contract GmonadToken is ERC20, Ownable {
         _burn(msg.sender, amount);
     }
 }
+// contract address: 0x8A753059fe2bfb77381fAd3CDeCd5c70e6607e96
